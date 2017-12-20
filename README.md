@@ -2,11 +2,11 @@
 
 
 The course gives basic knowledge in the following technologies: 
-HTML5 and CSS
-Java (Spring framework + Thymeleaf view engine + Hibernate ORM + MySQL database)
-C# (ASP.NET framework + Razor view engine + Entity Framework ORM + MS SQL Server database)
-JavaScript (NodeJS + ExpressJS frameworks + Handlebars view engine + Mongoose data access library + MongoDB database)
-PHP (Symfony framework + Twig view engine + Doctrine ORM + MySQL database)
+1. HTML5 and CSS
+2. Java (Spring framework + Thymeleaf view engine + Hibernate ORM + MySQL database)
+3. C# (ASP.NET framework + Razor view engine + Entity Framework ORM + MS SQL Server database)
+4. JavaScript (NodeJS + ExpressJS frameworks + Handlebars view engine + Mongoose data access library + MongoDB database)
+5. PHP (Symfony framework + Twig view engine + Doctrine ORM + MySQL database)
 
 
 ## Tasks implemented in Java, C#, JS, PHP
